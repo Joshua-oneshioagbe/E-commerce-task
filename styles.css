@@ -1,3 +1,8 @@
+/**{
+    overflow-x: hidden;
+}**/
+
+
 *{
     font-family: Poppins;
 }
@@ -16,7 +21,7 @@
 }
 
 h1{
-    font-size: 65px;
+    font-size: 60px;
 }
 
 h3{
@@ -94,6 +99,7 @@ a{
     text-decoration: none;
     color: white;
 }
+
 
 
 
